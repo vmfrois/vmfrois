@@ -1,16 +1,14 @@
-### Hi there 👋
+# Vinicius Marchioni Frois :man_technologist:
 
-<!--
-**vmfrois/vmfrois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-frois/)](https://www.linkedin.com/in/vinicius-frois/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511998255474&text=Olá!)](https://api.whatsapp.com/send?phone=5511998255474&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusfroism@gmail.com)](mailto:viniciusfroism@gmail.com)
 
-Here are some ideas to get you started:
+# Bem-vindo ao meu perfil! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um estudante de desenvolvimento back-end.
+
+:heart:Apaixonado por JavaScript
+:hammer:techs: Node.js, React e React Native
+:gear:Linguagens: ES6+ e PHP
+:books:Atualmente aprendendo TypeScript e TDD
