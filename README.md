@@ -7,8 +7,9 @@
 # Bem-vindo ao meu perfil! 
 
 Sou um estudante de desenvolvimento back-end.
-
-:heart:Apaixonado por JavaScript
-:hammer:techs: Node.js, React e React Native
-:gear:Linguagens: ES6+ e PHP
-:books:Atualmente aprendendo TypeScript e TDD
+<ul>
+<li>:heart:Apaixonado por JavaScript</li>
+<li>:hammer:techs: Node.js, React e React Native</li>
+<li>:gear:Linguagens: ES6+ e PHP</li>
+<li>:books:Atualmente aprendendo TypeScript e TDD</li>
+<u/>
