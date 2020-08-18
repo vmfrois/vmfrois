@@ -8,8 +8,8 @@
 
 Sou um estudante de desenvolvimento back-end.
 <ul>
-<li>:heart:Apaixonado por JavaScript</li>
-<li>:hammer:techs: Node.js, React e React Native</li>
-<li>:gear:Linguagens: ES6+ e PHP</li>
-<li>:books:Atualmente aprendendo TypeScript e TDD</li>
+<li>:heart:Apaixonado por tecnologias</li>
+<li>:hammer:techs: Java</li>
+<li>:gear:Linguagens: JavaScrpit e Java</li>
+<li>:books:Atualmente aprendendo Java e TDD</li>
 <u/>
