@@ -8,8 +8,7 @@
 
 Sou um estudante de desenvolvimento back-end.
 <ul>
-<li>:heart:Apaixonado por tecnologias</li>
 <li>:hammer:techs: Java</li>
 <li>:gear:Linguagens: JavaScrpit e Java</li>
-<li>:books:Atualmente aprendendo Java e TDD</li>
+<li>:books:Atualmente aprendendo ReactJS e TDD</li>
 <u/>
