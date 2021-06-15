@@ -6,7 +6,7 @@
 
 # Bem-vindo ao meu perfil! 
 
-Sou um estudante de desenvolvimento back-end.
+Sou um estagiário na empresa Woopi Softwares e Tecnologia Ltda
 <ul>
 <li>:hammer:techs: Java, Asp.Net Core</li>
 <li>:gear:Linguagens: JavaScrpit , Java e C#</li>
