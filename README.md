@@ -8,7 +8,7 @@
 
 Sou um estudante de desenvolvimento back-end.
 <ul>
-<li>:hammer:techs: Java</li>
-<li>:gear:Linguagens: JavaScrpit e Java</li>
-<li>:books:Atualmente aprendendo ReactJS e TDD</li>
+<li>:hammer:techs: Java, Asp.Net Core</li>
+<li>:gear:Linguagens: JavaScrpit , Java e C#</li>
+<li>:books:Atualmente aprendendo integrações Json com a ferramenta Sophie</li>
 <u/>
