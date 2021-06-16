@@ -6,7 +6,7 @@
 
 # Bem-vindo ao meu perfil! 
 
-Sou um estagiário na empresa Woopi Softwares e Tecnologia Ltda
+Sou um estagiário no setor de QA
 <ul>
 <li>:hammer:techs: Java, Asp.Net Core</li>
 <li>:gear:Linguagens: JavaScrpit , Java e C#</li>
