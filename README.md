@@ -7,16 +7,16 @@
 
 I'm a developer back end at @takenet
 
-💡 Main interests
+💡 Domain technologies
 <ul>
-  <li>Backend Development</li>
+  <li>Software Architecture</li>
+  <li>C# (.NET)</li>
+  <li>Java (Spring Boot)</li>
 </ul>
+
 ⚙️ Currently learning
 <ul>
-  <li>C# (.NET Core)</li>
-  <li>Software Architecture</li>
-  <li>Java (Spring Boot)</li>
-  <li>Python</li>
+  <li>C++</li>
 </ul>
 
 
@@ -26,5 +26,4 @@ I'm a developer back end at @takenet
   <li>Email: <a href="mailto:vinicius.frois.dev@gmail.com"> vinicius.frois.dev@gmail.com </a>  </li>
   <li>Linkedin: <a href="https://www.linkedin.com/in/vinicius-frois/"> vinicius.frois</a></li>
   <li>Instagram: <a href="https://www.instagram.com/vfrois_/"> vfrois_ </a> </li>
-  <li>Github: <a href="https://github.com/vmfrois">vmfrois </a> </li>
 </ul>
