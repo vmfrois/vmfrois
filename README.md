@@ -16,7 +16,7 @@ I'm a developer back end at @takenet
 
 ⚙️ Currently learning
 <ul>
-  <li>C++</li>
+  <li>Design Patterns</li>
 </ul>
 
 
