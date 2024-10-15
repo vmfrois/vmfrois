@@ -7,19 +7,12 @@
 
 I'm a developer back end at @takenet
 
-💡 Domain technologies
+<h2>Stuff</h2>
 <ul>
   <li>Software Architecture</li>
   <li>C# (.NET)</li>
   <li>Java (Spring Boot)</li>
 </ul>
-
-⚙️ Currently learning
-<ul>
-  <li>Design Patterns</li>
-</ul>
-
-
 
 📬 About me
 <ul>
