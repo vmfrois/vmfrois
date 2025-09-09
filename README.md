@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusfroism@gmail.com)](mailto:vinicius.frois.dev@gmail.com)
 
 
-I'm a developer back end at @takenet
+I'm a developer back end at @viavarejo
 
 <h2>Stuff</h2>
 <ul>
